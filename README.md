@@ -20,7 +20,7 @@
 
 4. **Handle Token Expiry**: Implement logic to handle expired tokens.
 
-5. **Testing**: Test your implementation by generating a token.
+5. 
 
 ## 🎉 Outcome
 
